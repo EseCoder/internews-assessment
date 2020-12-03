@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Internews Assessment</string>
+    <string name="superheroes">SuperHeroes</string>
+    <string name="search_sups">Search Sups</string>
+    <string name="retry">Retry</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="error">Error</string>
+    <string name="no_sups">No Sups right now</string>
+    <string name="action_search">Search</string>
+</resources>
